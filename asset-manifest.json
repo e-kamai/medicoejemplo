@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicoejemplo/static/css/main.5c43b275.css",
+    "main.js": "/medicoejemplo/static/js/main.f05127af.js",
+    "index.html": "/medicoejemplo/index.html",
+    "main.5c43b275.css.map": "/medicoejemplo/static/css/main.5c43b275.css.map",
+    "main.f05127af.js.map": "/medicoejemplo/static/js/main.f05127af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c43b275.css",
+    "static/js/main.f05127af.js"
+  ]
+}
